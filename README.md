@@ -36,7 +36,8 @@ How to Run
 4. Refresh the data if required.
 Outcome
 This project demonstrates data visualization, data cleaning, KPI
-calculations, and basic business analysis using Power BI.  
+calculations, and basic business analysis using Power BI.
+
 Authors
 - M Mohamed Haathim
 - Mahalakshmi R
